@@ -1,0 +1,22 @@
+[
+  {
+    "userName": "testuser",
+    "password": "12345"
+  },
+  {
+    "userName": "testUser",
+    "password": "password123"
+  },
+  {
+    "userName": "hari",
+    "password": "haribhai5"
+  },
+  {
+    "userName": "shiva",
+    "password": "shiva33"
+  },
+  {
+    "userName": "hariman",
+    "password": "hariman5"
+  }
+]
